@@ -1,6 +1,6 @@
 # 📊 Sistema de Automação de Vendas
 
-Este projeto foi desenvolvido para automatizar o processo de vendas e gestão de produtos das empresas **Três Marias** e **Fidalgo Gouveia**, focado na comercialização de bebidas e laticínios (mussarela).
+Este projeto foi desenvolvido para automatizar o processo de vendas e gestão de produtos das empresas, focado na comercialização de bebidas e laticínios (mussarela).
 
 ## 🚀 Sobre o Projeto
 O objetivo é facilitar o dia a dia do representante comercial, permitindo o cadastro de pedidos, controle de estoque e organização de clientes de forma rápida e eficiente.
